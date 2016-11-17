@@ -25,7 +25,8 @@ land area of 757 square kilometers (292 sq mi.) and population of 22.094 person
 All data is in GeoJson format, separated in different file.
 
 
-### [Singkep Island coastline, mountain, and major settlement/village]
+### Singkep Island coastline, mountain, and major settlement/village
+--------
 
 All data taken from Openstreetmap via overpass API.
 
@@ -37,6 +38,7 @@ File:
 **License** under [Open Data Commons Open Database License (ODbL)](http://opendatacommons.org/licenses/odbl/)
 
 ### [Kecamatan/county Administrative region](https://github.com/BesutKode/uni-task-2-adhikasp/blob/master/data/singkep-administrative.geojson)
+--------
 
 All data taken from map provided in regional statistic record by BPS
 (Badan Pusat Statistik) Kabupaten Lingga. Traced manually from image file
@@ -63,6 +65,7 @@ A maybe a little relevant news link
 - <http://selingga.com/799/>
 
 ### [Forest critical land area](https://github.com/BesutKode/uni-task-2-adhikasp/blob/master/data/singkep-lahan-kritis.geojson)
+--------
 
 Data provided from Dinas Kehutanan (Ministry of Forestry). The original data
 contained information on entire Sumatra Island area. This data then filtered by
