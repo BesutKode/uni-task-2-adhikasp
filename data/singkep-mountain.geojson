@@ -1,0 +1,1 @@
+{"features": [{"geometry": {"coordinates": [104.5, -0.416667], "type": "Point"}, "id": 1070184408, "properties": {"gns:dsg": "MT", "is_in:country": "Indonesia", "is_in:country_code": "ID", "name": "Gunung Lanjut", "natural": "peak", "note": "Modify date: 1994-01-29", "source": "NGA-GNS"}, "type": "Feature"}], "type": "FeatureCollection"}

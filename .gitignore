@@ -31,3 +31,11 @@
 # Debug files
 *.dSYM/
 *.su
+
+# Python
+__pycache__
+
+# Too big data
+data/Sumatera.kml
+data/Sumatera.kml.zip
+data/Sumatera.geojson
