@@ -5,4 +5,5 @@ python:
 install:
     "pip install -r requirements.txt"
 script:
-    ./script.py
+    - chmod a+x ./script.py
+    - ./script.py
